@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on NCS
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:
-- ```
+```
   Don't bow! The crown will fall.
   Don't cry! The bad guys will laugh.
-  ```
+```
 
 <!---
 L0ng-nguY3n-470115/L0ng-nguY3n-470115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
