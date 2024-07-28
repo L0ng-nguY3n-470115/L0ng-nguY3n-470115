@@ -8,8 +8,7 @@
   Don't bow! The crown will fall.
   Don't cry! The bad guys will laugh.
 
-
-By PHAM BANG BANG
+  By PHAM BANG BANG
 ```
 
 <!---
