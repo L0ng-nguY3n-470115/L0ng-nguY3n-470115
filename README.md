@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @L0ng-nguY3n-470115
 - 👀 I’m interested in playing CTF
-- 🌱 I’m currently learning KCSC
+- 🌱 I’m currently learning CyberSecurity at KCSC
 - 💞️ I’m looking to collaborate on NCS
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:
